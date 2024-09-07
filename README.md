@@ -36,20 +36,29 @@ Kaggle: Your Kaggle Profile
 
 
 
-
-
-
-
-
-
-
 - 👋 Hi, I’m @MurliiSharmaa
 - 👀 I’m interested in ...
+    Data Science & Machine Learning
+    Big Data Analytics
+    Natural Language Processing (NLP)
+    Data Visualization and Storytelling
+    Predictive Analytics and AI
 - 🌱 I’m currently learning ...
+   Deep Learning and Neural Networks with TensorFlow
+   Advanced SQL for complex analytics
+   Cloud technologies like AWS and Google Cloud
+   Big Data tools like Spark and Hadoop
 - 💞️ I’m looking to collaborate on ...
+   Data science projects that involve machine learning, AI, and data visualization
+   Open-source projects in data analytics and automation
+   Any project that involves turning data into impactful insights
 - 📫 How to reach me ...
+   Email:mv.sharma2005@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+   I enjoy analyzing random datasets in my free time—whether it’s tracking my daily coffee consumption ☕️, running statistics on my workout routines 🏋️, or even predicting the outcome of my favorite sports teams 
+   using data! 📊
+
 
 <!---
 MurliiSharmaa/MurliiSharmaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
