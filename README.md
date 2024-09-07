@@ -1,66 +1,43 @@
-Hi there! 👋 I'm Murli Sharma
-🚀 Data Scientist | Data Analyst | Problem Solver
-I'm passionate about turning data into actionable insights to drive decision-making. With a background in data science and data analytics, I use my skills to solve complex problems and contribute to meaningful projects. Welcome to my GitHub!
+<h1 align="center">Hi 👋, I'm Murli Sharma</h1>
+<h3 align="center">🚀 Data Scientist | Data Analyst | Problem Solver I'm passionate about turning data into actionable insights to drive decision-making. With a background in data science and data analytics, I use my skills to solve complex problems and contribute to meaningful projects. Welcome to my GitHub!from India</h3>
 
-🔧 Technologies & Tools I Use:
-Programming: Python, R, SQL
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
-Data Visualization: Tableau, Power BI, Matplotlib, Plotly
-Databases: MySQL, PostgreSQL, MongoDB
-Version Control: Git, GitHub
-Others: Excel, Jupyter Notebooks, Google Colab
-📊 My Areas of Expertise:
-Data Cleaning & Preprocessing
-Exploratory Data Analysis (EDA)
-Predictive Modeling & Machine Learning
-Statistical Analysis
-Data Visualization & Reporting
-📈 Featured Projects:
-Customer Churn Prediction: Used machine learning algorithms to predict customer churn for a telecom company.
-Sales Forecasting: Built time series models to forecast sales using historical data.
-Sentiment Analysis: Developed an NLP pipeline to analyze customer feedback.
-📝 Blogs & Writings:
-I love sharing what I learn. Check out some of my writings on data science, analytics, and more:
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-Blog 1
-Blog 2
-🌱 Currently Learning:
-Deep Learning and Neural Networks
-Advanced SQL techniques for analytics
-🤝 Let's Connect:
-LinkedIn: Your LinkedIn
-Kaggle: Your Kaggle Profile
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=murliisharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="murliisharmaa" /> </p>
 
+- 🔭 I’m currently working on **Image API Project**
 
+- 🌱 I’m currently learning **Deep Learning and Neural Networks Advanced SQL techniques for analytics**
 
+- 👯 I’m looking to collaborate on **Data science projects that involve machine learning, AI, and data visualization Open-source projects in data analytics and automation Any project that involves turning data into impactful insights**
 
+- 🤝 I’m looking for help with **turning data into actionable insights to drive decision-making**
 
+- 👨‍💻 All of my projects are available at [github.com/MurliiSharmaa](github.com/MurliiSharmaa)
 
-- 👋 Hi, I’m @MurliiSharmaa
-- 👀 I’m interested in ...
-    Data Science & Machine Learning
-    Big Data Analytics
-    Natural Language Processing (NLP)
-    Data Visualization and Storytelling
-    Predictive Analytics and AI
-- 🌱 I’m currently learning ...
-   Deep Learning and Neural Networks with TensorFlow
-   Advanced SQL for complex analytics
-   Cloud technologies like AWS and Google Cloud
-   Big Data tools like Spark and Hadoop
-- 💞️ I’m looking to collaborate on ...
-   Data science projects that involve machine learning, AI, and data visualization
-   Open-source projects in data analytics and automation
-   Any project that involves turning data into impactful insights
-- 📫 How to reach me ...
-   Email:mv.sharma2005@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-   I enjoy analyzing random datasets in my free time—whether it’s tracking my daily coffee consumption ☕️, running statistics on my workout routines 🏋️, or even predicting the outcome of my favorite sports teams 
-   using data! 📊
+- 📝 I regularly write articles on [🚀 Data Scientist | Data Analyst | Problem Solver (Related)](🚀 Data Scientist | Data Analyst | Problem Solver (Related))
 
+- 💬 Ask me about **Python, R, SQL, Microsoft Excel for Data Analysis, STATISTICAL METHODS, PROBABILITY & STOCHASTIC PROCESS, LINEAR ALGEBRA & LINEAR PROGRAMMING, COMPUTING FOR DATA SCIENCES**
 
-<!---
-MurliiSharmaa/MurliiSharmaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me **mv.sharma2005@gmail.com**
+
+- 📄 Know about my experiences [:)](:))
+
+- ⚡ Fun fact **I enjoy analyzing random datasets in my free time—whether it’s tracking my daily coffee consumption ☕️, running statistics on my workout routines 🏋️, or even predicting the outcome of my favorite sports teams using data! 📊**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/sharmamurli9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharmamurli9" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://linktr.ee/murlisharma9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://linktr.ee/murlisharma9" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murliisharmaa&show_icons=true&locale=en&layout=compact" alt="murliisharmaa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murliisharmaa&show_icons=true&locale=en" alt="murliisharmaa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murliisharmaa&" alt="murliisharmaa" /></p>
