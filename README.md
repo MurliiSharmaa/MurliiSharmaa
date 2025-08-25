@@ -1,4 +1,4 @@
-![logo](https://github.com/MurliiSharmaa/MurliiSharmaa/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
+#![logo](https://github.com/MurliiSharmaa/MurliiSharmaa/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Murli Sharma</h1>
 <h3 align="center">🚀 Data Scientist | Data Analyst | Problem Solver I'm passionate about turning data into actionable insights to drive decision-making. With a background in data science and data analytics, I use my skills to solve complex problems and contribute to meaningful projects. Welcome to my GitHub!from India</h3>
 
